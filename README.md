@@ -7,6 +7,11 @@
   </div>
 
   <h3 align="center">Meditation and Affirmations App - Mobile. iOS & Android</h3>
+
+  <img src="present.jpg" alt="Choice Selection Screens" width="408"/>
+  <img src="timer.png" alt="Timer" width="200"/>
+</div>
+</div>
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
